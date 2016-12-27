@@ -1,0 +1,47 @@
+{
+  "name": "generator-simplejqueryuistarter",
+  "version": "0.1.0",
+  "description": "Easy boiler plate for jQuery Ui  and JQuery project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"All set for JQuery UI work"
+  },
+  "files": [
+    "app",
+    "router",
+    "css",
+	"css/styles.css",
+    "js",
+    "js/jquery-ui-1.11.3/",
+    "js/jquery-ui-1.11.3/external/",
+    "js/jquery-ui-1.11.3/jquery/",
+    "js/jquery-ui-1.11.3/images/",
+    "js/external/jquery/jquery.js",
+    "js/jquery-ui-1.11.3/index.html",
+    "js/jquery-ui-1.11.3/jquery-ui.css",
+    "js/jquery-ui-1.11.3/jquery-ui.js",
+    "js/jquery-ui-1.11.3/jquery-ui.min.css",
+    "js/jquery-ui-1.11.3/jquery-ui.min.js",
+    "js/jquery-ui-1.11.3/jquery-ui.structure.css",
+    "js/jquery-ui-1.11.3/jquery-ui.structure.min.css",
+    "js/jquery-ui-1.11.3/jquery-ui.theme.css",
+    "js/jquery-ui-1.11.3/jquery-ui.theme.min.css",
+    "js/jquery-1.11.2.js",
+	"js/support/touch.js",
+    "js/myapp-0.0.1.js"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.0.0",
+  },
+  "keywords": [
+    "yeoman-generator",
+	"boilerplate",
+    "jQuery",
+    "jQueryUI"
+  ],
+  "repository" : { "type" : "git" , 
+	"url" : "https://github.com/zeshanb/generator-simplejqueryuistarter.git"
+  },
+  "author": "Zeshan B.",
+  "license": "ISC"
+}
